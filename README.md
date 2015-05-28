@@ -1,2 +1,2 @@
-# ht
-This site host some of the thing ht wrote
+# htclib
+HT's C Library
